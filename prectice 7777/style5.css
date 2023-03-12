@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.header5{
+    background-color: rgb(145, 37, 55);
+}
+
+ul,li{
+    list-style:none;
+}
+a{
+    text-decoration: none;
+}
+    
+.cantainer{
+           width: 1140px;
+           margin: 0px auto;
+           padding: 0px 15px;
+}
+
+.text-white{
+    color: aliceblue;
+}
+nav{
+    overflow: auto;
+}
+.logo{
+          float: left;
+          padding: 10px 20px;
+}
+.manubar{
+        float: right;
+        display: inline-block;
+}
+.manubar li{
+    display: inline-block;
+}
+
+.manubar li a{
+               padding: 10px 20px;
+               display: inline-block;
+}
